@@ -1,3 +1,3 @@
 function retval = myderivative(x)
-    retval = 3*x**2;
+    retval = 5*x**4;
 endfunction

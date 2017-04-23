@@ -1,3 +1,3 @@
 function retval = myfunction (x)
-    retval = x.^3 - 1;
+    retval = x.^5 - 1;
 endfunction
